@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dolar-1\Dolar-1\bin\Debug\Dolar-1.exe.config
+C:\Users\User\source\repos\Dolar-1\Dolar-1\bin\Debug\Dolar-1.exe
+C:\Users\User\source\repos\Dolar-1\Dolar-1\bin\Debug\Dolar-1.pdb
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar-1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar_1.Form1.resources
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar_1.Properties.Resources.resources
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar-1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar-1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar-1.exe
+C:\Users\User\source\repos\Dolar-1\Dolar-1\obj\Debug\Dolar-1.pdb
